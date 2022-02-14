@@ -1,0 +1,24 @@
+{
+  "Server": {
+    "com.instagram.android": {
+      "Google": {
+        "App_open": "123",
+        "Banner": "123",
+        "Interstitial": "123",
+        "Interstitial_rewared": "123",
+        "Native": "123"
+      },
+      "Facebook": {
+        "Banner": "123",
+        "Interstitial": "123",
+        "Interstitial_rewared": "123",
+        "Native": "123"
+      },
+      "ads_type": "0",
+      "ads_service": "Google",
+      "privacy_policy_link": "https://radhekrishnainfo.blogspot.com/p/privacy-policy-of-radhe-krishna-infotech.html",
+      "app_name": "Instagram",
+      "app_logo": "https://www.citypng.com/public/uploads/preview/-11590312651godncg2jfc.png"
+    }
+  }
+}
